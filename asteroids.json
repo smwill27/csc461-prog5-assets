@@ -15,7 +15,7 @@
     "uvs": [[0,0], [0,1], [1,1], [1,0],[1,0],[0,0],[1,1],[0,1]],
     "triangles": [[0,1,2],[2,3,0],[1,2,5],[5,4,1],[0,3,7],[7,6,0],[6,4,1],[1,0,6],[7,5,2],[2,3,7],[6,4,5],[5,7,6]],
     "asteroid": true,
-    "asteroidTranslationAmount": 0.1
+    "asteroidTranslationAmount": 0.5
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "asteroid_texture.jpg"}, 
@@ -24,6 +24,6 @@
     "uvs": [[0,0], [0,1], [1,1], [1,0],[1,0],[0,0],[1,1],[0,1]],
     "triangles": [[0,1,2],[2,3,0],[1,2,5],[5,4,1],[0,3,7],[7,6,0],[6,4,1],[1,0,6],[7,5,2],[2,3,7],[6,4,5],[5,7,6]],
     "asteroid": true,
-    "asteroidTranslationAmount": 0.001
+    "asteroidTranslationAmount": 0.005
   }
 ]
