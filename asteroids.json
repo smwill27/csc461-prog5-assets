@@ -7,8 +7,8 @@
     "triangles": [[0,1,2],[2,3,0],[1,2,5],[5,4,1],[0,3,7],[7,6,0],[6,4,1],[1,0,6],[7,5,2],[2,3,7],[6,4,5],[5,7,6]],
     "asteroid": true,
     "asteroidTranslationAmount": 0.01,
-    "maxTranslations": [2.6,1.9,1.35],
-    "minTranslations": [-1.4,-2.4,-2.95]
+    "maxTranslations": [2.7,2.0,1.45],
+    "minTranslations": [-1.5,-2.5,-3.05]
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "asteroid_texture.jpg"}, 
@@ -18,8 +18,8 @@
     "triangles": [[0,1,2],[2,3,0],[1,2,5],[5,4,1],[0,3,7],[7,6,0],[6,4,1],[1,0,6],[7,5,2],[2,3,7],[6,4,5],[5,7,6]],
     "asteroid": true,
     "asteroidTranslationAmount": 0.01,
-    "maxTranslations": [0.5,1.6,1.35],
-    "minTranslations": [-3.8,-2.4,-2.95]
+    "maxTranslations": [0.6,1.7,1.45],
+    "minTranslations": [-3.9,-2.5,-3.05]
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "asteroid_texture.jpg"}, 
@@ -29,7 +29,7 @@
     "triangles": [[0,1,2],[2,3,0],[1,2,5],[5,4,1],[0,3,7],[7,6,0],[6,4,1],[1,0,6],[7,5,2],[2,3,7],[6,4,5],[5,7,6]],
     "asteroid": true,
     "asteroidTranslationAmount": 0.005,
-    "maxTranslations": [1.7,0.4,1.35],
-    "minTranslations": [-2.6,-3.9,-2.95]
+    "maxTranslations": [1.8,0.5,1.45],
+    "minTranslations": [-2.7,-4.0,-3.05]
   }
 ]
