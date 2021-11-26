@@ -53,5 +53,5 @@
     "asteroidTranslationAmount": 0.005,
     "maxTranslations": [1.8,0.5,1.45],
     "minTranslations": [-2.7,-4.0,-3.05]
-  },
+  }
 ]
