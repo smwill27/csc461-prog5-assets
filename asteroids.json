@@ -10,7 +10,7 @@
     "maxTranslations": [2.7,2.0,1.45],
     "minTranslations": [-1.5,-2.5,-3.05],
     "centerForCollision": [-0.75,0.25],
-    "radiusForCollision": 0.15
+    "radiusForCollision": 0.25
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "asteroid_texture.jpg"}, 
@@ -23,7 +23,7 @@
     "maxTranslations": [0.6,1.7,1.45],
     "minTranslations": [-3.9,-2.5,-3.05],
     "centerForCollision": [1.65,0.25],
-    "radiusForCollision": 0.15
+    "radiusForCollision": 0.25
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "asteroid_texture.jpg"}, 
@@ -36,7 +36,7 @@
     "maxTranslations": [1.8,0.5,1.45],
     "minTranslations": [-2.7,-4.0,-3.05],
     "centerForCollision": [0.45,1.75],
-    "radiusForCollision": 0.15
+    "radiusForCollision": 0.25
   },
   {
     "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.4,0.34,0.04], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "ship_texture.jpg"}, 
